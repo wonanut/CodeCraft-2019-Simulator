@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>file/answer.txt</file>
+        <file>file/car.txt</file>
+        <file>file/cross.txt</file>
+        <file>file/presetAnswer.txt</file>
+        <file>file/road.txt</file>
+    </qresource>
+</RCC>
